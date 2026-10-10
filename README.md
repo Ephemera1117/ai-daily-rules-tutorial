@@ -72,7 +72,7 @@
 
 ## 📄 License
 
-本教程采用 CC BY-NC-SA 4.0 协议：
+本教程采用 [CC BY-NC-SA 4.0](LICENSE) 协议：
 - ✅ 可以自由分享、改编
 - ⚠️ 需要署名原作者（ResetZero_1211）
 - ⚠️ 非商业使用
