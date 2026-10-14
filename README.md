@@ -1,5 +1,7 @@
 # AI 日常调教/动态调整规则思路
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md"><img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24"></a>
+
 > **作者**：ResetZero_1211
 
 个人思路分享：如何用 AI 老师管理日常规则、动态调整标准，适用于人机恋（主要是D/s），以及督学等场景。
